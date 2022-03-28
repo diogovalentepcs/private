@@ -1,0 +1,15 @@
+{
+  "name": "godexcontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-pre-gyp": "^0.17.0",
+    "serialport": "^9.2.8"
+  }
+}
